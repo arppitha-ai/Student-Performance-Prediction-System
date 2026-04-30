@@ -35,13 +35,11 @@ This project predicts student performance (pass/fail & risk level) using Machine
 
 ## 🖼️ Screenshots
 
-### 🔹 API Prediction Output
-![Prediction](images/student_risk_prediction_output.png)
 
 ### 🔹 Feature Importance
 ![Feature Importance](images/feature_importance_graph.png)
 
-### 🔹 SHAP Explainability
+### 🔹 SHAP Feature
 ![SHAP](images/shap_feature_impact.png)
 
 
