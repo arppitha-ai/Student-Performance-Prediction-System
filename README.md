@@ -33,15 +33,6 @@ This project predicts student performance (pass/fail & risk level) using Machine
 - SHAP explainability graph
 - Risk prediction API
 
-## 🖼️ Screenshots
-
-
-### 🔹 Feature Importance
-![Feature Importance](images/feature_importance_graph.png)
-
-### 🔹 SHAP Feature
-![SHAP](images/shap_feature_impact.png)
-
 
 ## ▶️ Run Project
 
